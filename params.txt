@@ -1,0 +1,95 @@
+***** 1JHN *****
+bounds_LGB = {
+    'num_leaves': 88, 
+    'min_child_samples': 31,
+    'max_depth': 19,
+    'subsample' : 0.3519,
+    'feature_fraction' : 0.4793,
+    'learning_rate': 0.01981,  
+    'reg_alpha': 0.7319, 
+    'reg_lambda': 0.02046,
+}
+
+***** 1JHC *****
+bounds_LGB = {
+    'num_leaves': 215, 
+    'min_child_samples': 58,
+    'max_depth': 37,
+    'subsample' : 0.2817,
+    'feature_fraction' : 0.8268,
+    'learning_rate': 0.0313,  
+    'reg_alpha': 0.6199, 
+    'reg_lambda': 0.06773,
+}
+
+***** 2JHH *****
+bounds_LGB = {
+    'num_leaves': 275, 
+    'min_child_samples': 34,
+    'max_depth': 29,
+    'subsample' : 0.3144,
+    'feature_fraction' : 0.6463,
+    'learning_rate': 0.0338,  
+    'reg_alpha': 0.738, 
+    'reg_lambda': 0.4629,
+}
+
+***** 2JHN *****
+bounds_LGB = {
+    'num_leaves': 200, 
+    'min_child_samples': 105,
+    'max_depth': 12,
+    'subsample' : 0.351,
+    'feature_fraction' : 0.3879,
+    'learning_rate': 0.04198,  
+    'reg_alpha': 0.8291, 
+    'reg_lambda': 0.4697,
+}
+
+***** 2JHC *****
+bounds_LGB = {
+    'num_leaves': 148, 
+    'min_child_samples': 25,
+    'max_depth': 10,
+    'subsample' : 0.1386,
+    'feature_fraction' : 0.7393,
+    'learning_rate': 0.1277,  
+    'reg_alpha': 0.4687, 
+    'reg_lambda': 0.1326,
+}
+
+***** 3JHH *****
+bounds_LGB = {
+    'num_leaves': 115, 
+    'min_child_samples': 163,
+    'max_depth': 28,
+    'subsample' : 0.1856,
+    'feature_fraction' : 0.6099,
+    'learning_rate': 0.06415,  
+    'reg_alpha': 0.8427, 
+    'reg_lambda': 0.3105,
+}
+
+***** 3JHC *****
+bounds_LGB = {
+    'num_leaves': 240, 
+    'min_child_samples': 155,
+    'max_depth': 17,
+    'subsample' : 0.2464,
+    'feature_fraction' : 0.5808,
+    'learning_rate': 0.1378,  
+    'reg_alpha': 0.07945, 
+    'reg_lambda': 0.439,
+}
+
+***** 3JHN *****
+bounds_LGB = {
+    'num_leaves': 184, 
+    'min_child_samples': 114,
+    'max_depth': 34,
+    'subsample' : 0.4323,
+    'feature_fraction' : 0.5897,
+    'learning_rate': 0.01962,  
+    'reg_alpha': 0.2624, 
+    'reg_lambda': 0.3179,
+}
